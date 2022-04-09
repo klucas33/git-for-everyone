@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-Title : Git for Everyone
-Subtitle : Hello how are you
-
-And then he lives
-=======
 Title : Git for you
 Subtitle : Hello not how are you
->>>>>>> main
