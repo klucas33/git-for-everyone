@@ -1,9 +1,2 @@
-<<<<<<< Updated upstream
 Title : Git for you
 Subtitle : Hello not how are you
-=======
-Title : Git for Everyone
-Subtitle : Hello how are you
-
-And then he lives
->>>>>>> Stashed changes
